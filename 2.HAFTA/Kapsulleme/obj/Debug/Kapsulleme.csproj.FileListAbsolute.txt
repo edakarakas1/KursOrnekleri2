@@ -1,0 +1,11 @@
+C:\Users\SC-303 1\source\repos\Hafta2\Kapsulleme\bin\Debug\Kapsulleme.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\Kapsulleme\bin\Debug\Kapsulleme.exe
+C:\Users\SC-303 1\source\repos\Hafta2\Kapsulleme\bin\Debug\Kapsulleme.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\Kapsulleme\obj\Debug\Kapsulleme.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Kapsulleme\obj\Debug\Kapsulleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Kapsulleme\obj\Debug\Kapsulleme.Form1.resources
+C:\Users\SC-303 1\source\repos\Hafta2\Kapsulleme\obj\Debug\Kapsulleme.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Hafta2\Kapsulleme\obj\Debug\Kapsulleme.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Kapsulleme\obj\Debug\Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Kapsulleme\obj\Debug\Kapsulleme.exe
+C:\Users\SC-303 1\source\repos\Hafta2\Kapsulleme\obj\Debug\Kapsulleme.pdb

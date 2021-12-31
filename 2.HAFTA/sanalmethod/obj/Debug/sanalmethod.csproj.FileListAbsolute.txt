@@ -1,0 +1,8 @@
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethod\bin\Debug\sanalmethod.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethod\bin\Debug\sanalmethod.exe
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethod\bin\Debug\sanalmethod.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethod\obj\Debug\sanalmethod.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethod\obj\Debug\sanalmethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethod\obj\Debug\sanalmethod.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethod\obj\Debug\sanalmethod.exe
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethod\obj\Debug\sanalmethod.pdb

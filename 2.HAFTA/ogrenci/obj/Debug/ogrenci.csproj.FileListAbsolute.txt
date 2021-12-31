@@ -1,0 +1,15 @@
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\obj\Debug\ogrenci.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\obj\Debug\ogrenci.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\obj\Debug\ogrenci.Form1.resources
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\obj\Debug\ogrenci.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\obj\Debug\ogrenci.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\obj\Debug\ogrenci.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\bin\Debug\ogrenci.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\bin\Debug\ogrenci.exe
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\bin\Debug\ogrenci.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\bin\Debug\DataUret.exe
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\bin\Debug\DataUret.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\bin\Debug\DataUret.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\obj\Debug\ogrenci.csproj.CopyComplete
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\obj\Debug\ogrenci.exe
+C:\Users\SC-303 1\source\repos\Hafta2\ogrenci\obj\Debug\ogrenci.pdb

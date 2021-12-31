@@ -1,0 +1,11 @@
+C:\Users\SC-303 1\source\repos\Hafta2\Ogrenci_Uygulama\bin\Debug\Ogrenci_Uygulama.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\Ogrenci_Uygulama\bin\Debug\Ogrenci_Uygulama.exe
+C:\Users\SC-303 1\source\repos\Hafta2\Ogrenci_Uygulama\bin\Debug\Ogrenci_Uygulama.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\Ogrenci_Uygulama\obj\Debug\Ogrenci_Uygulama.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Ogrenci_Uygulama\obj\Debug\Ogrenci_Uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Ogrenci_Uygulama\obj\Debug\Ogrenci_Uygulama.Form1.resources
+C:\Users\SC-303 1\source\repos\Hafta2\Ogrenci_Uygulama\obj\Debug\Ogrenci_Uygulama.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Hafta2\Ogrenci_Uygulama\obj\Debug\Ogrenci_Uygulama.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Ogrenci_Uygulama\obj\Debug\Ogrenci_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Ogrenci_Uygulama\obj\Debug\Ogrenci_Uygulama.exe
+C:\Users\SC-303 1\source\repos\Hafta2\Ogrenci_Uygulama\obj\Debug\Ogrenci_Uygulama.pdb

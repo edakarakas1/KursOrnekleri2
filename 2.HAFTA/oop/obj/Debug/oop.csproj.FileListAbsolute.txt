@@ -1,0 +1,8 @@
+C:\Users\SC-303 1\source\repos\Hafta2\oop\bin\Debug\oop.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\oop\bin\Debug\oop.exe
+C:\Users\SC-303 1\source\repos\Hafta2\oop\bin\Debug\oop.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\oop\obj\Debug\oop.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\oop\obj\Debug\oop.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\oop\obj\Debug\oop.exe
+C:\Users\SC-303 1\source\repos\Hafta2\oop\obj\Debug\oop.pdb

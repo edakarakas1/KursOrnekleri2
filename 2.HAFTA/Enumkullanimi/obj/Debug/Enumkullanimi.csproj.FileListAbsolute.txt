@@ -1,0 +1,8 @@
+C:\Users\SC-303 1\source\repos\Hafta2\Enumkullanimi\bin\Debug\Enumkullanimi.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\Enumkullanimi\bin\Debug\Enumkullanimi.exe
+C:\Users\SC-303 1\source\repos\Hafta2\Enumkullanimi\bin\Debug\Enumkullanimi.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\Enumkullanimi\obj\Debug\Enumkullanimi.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Enumkullanimi\obj\Debug\Enumkullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Enumkullanimi\obj\Debug\Enumkullanimi.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Enumkullanimi\obj\Debug\Enumkullanimi.exe
+C:\Users\SC-303 1\source\repos\Hafta2\Enumkullanimi\obj\Debug\Enumkullanimi.pdb

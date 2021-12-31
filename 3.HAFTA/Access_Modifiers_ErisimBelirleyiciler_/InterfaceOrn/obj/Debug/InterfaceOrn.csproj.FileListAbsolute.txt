@@ -1,0 +1,8 @@
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\InterfaceOrn\bin\Debug\InterfaceOrn.exe.config
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\InterfaceOrn\bin\Debug\InterfaceOrn.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\InterfaceOrn\bin\Debug\InterfaceOrn.pdb
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\InterfaceOrn\obj\Debug\InterfaceOrn.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\InterfaceOrn\obj\Debug\InterfaceOrn.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\InterfaceOrn\obj\Debug\InterfaceOrn.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\InterfaceOrn\obj\Debug\InterfaceOrn.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\InterfaceOrn\obj\Debug\InterfaceOrn.pdb

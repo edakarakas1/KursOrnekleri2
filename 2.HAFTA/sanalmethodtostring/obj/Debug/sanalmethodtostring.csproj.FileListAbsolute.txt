@@ -1,0 +1,11 @@
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethodtostring\bin\Debug\sanalmethodtostring.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethodtostring\bin\Debug\sanalmethodtostring.exe
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethodtostring\bin\Debug\sanalmethodtostring.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethodtostring\obj\Debug\sanalmethodtostring.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethodtostring\obj\Debug\sanalmethodtostring.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethodtostring\obj\Debug\sanalmethodtostring.Form1.resources
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethodtostring\obj\Debug\sanalmethodtostring.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethodtostring\obj\Debug\sanalmethodtostring.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethodtostring\obj\Debug\sanalmethodtostring.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethodtostring\obj\Debug\sanalmethodtostring.exe
+C:\Users\SC-303 1\source\repos\Hafta2\sanalmethodtostring\obj\Debug\sanalmethodtostring.pdb

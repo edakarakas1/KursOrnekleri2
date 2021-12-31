@@ -1,0 +1,14 @@
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\bin\Debug\kalıtımornek.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\bin\Debug\kalıtımornek.exe
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\bin\Debug\kalıtımornek.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\bin\Debug\FakeData.dll
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\bin\Debug\FakeData.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\obj\Debug\kalıtımornek.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\obj\Debug\kalıtımornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\obj\Debug\kalıtımornek.Form1.resources
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\obj\Debug\kalıtımornek.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\obj\Debug\kalıtımornek.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\obj\Debug\kalıtımornek.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\obj\Debug\kalıtımornek.csproj.CopyComplete
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\obj\Debug\kalıtımornek.exe
+C:\Users\SC-303 1\source\repos\Hafta2\kalıtımornek\obj\Debug\kalıtımornek.pdb

@@ -1,0 +1,14 @@
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\bin\Debug\UserControltext.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\bin\Debug\UserControltext.exe
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\bin\Debug\UserControltext.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\bin\Debug\UserControl.dll
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\bin\Debug\UserControl.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\obj\Debug\UserControltext.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\obj\Debug\UserControltext.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\obj\Debug\UserControltext.Form1.resources
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\obj\Debug\UserControltext.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\obj\Debug\UserControltext.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\obj\Debug\UserControltext.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\obj\Debug\UserControltext.csproj.CopyComplete
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\obj\Debug\UserControltext.exe
+C:\Users\SC-303 1\source\repos\Hafta2\UserControltext\obj\Debug\UserControltext.pdb

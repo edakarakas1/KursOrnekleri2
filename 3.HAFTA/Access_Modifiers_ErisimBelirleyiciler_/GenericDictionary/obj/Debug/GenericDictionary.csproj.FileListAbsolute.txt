@@ -1,0 +1,11 @@
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\GenericDictionary\bin\Debug\GenericDictionary.exe.config
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\GenericDictionary\bin\Debug\GenericDictionary.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\GenericDictionary\bin\Debug\GenericDictionary.pdb
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\GenericDictionary\obj\Debug\GenericDictionary.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\GenericDictionary\obj\Debug\GenericDictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\GenericDictionary\obj\Debug\GenericDictionary.Form1.resources
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\GenericDictionary\obj\Debug\GenericDictionary.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\GenericDictionary\obj\Debug\GenericDictionary.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\GenericDictionary\obj\Debug\GenericDictionary.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\GenericDictionary\obj\Debug\GenericDictionary.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\GenericDictionary\obj\Debug\GenericDictionary.pdb

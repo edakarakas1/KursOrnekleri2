@@ -1,0 +1,7 @@
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\Delegate-Temsilciler\bin\Debug\Delegate-Temsilciler.exe.config
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\Delegate-Temsilciler\bin\Debug\Delegate-Temsilciler.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\Delegate-Temsilciler\bin\Debug\Delegate-Temsilciler.pdb
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\Delegate-Temsilciler\obj\Debug\Delegate-Temsilciler.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\Delegate-Temsilciler\obj\Debug\Delegate-Temsilciler.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\Delegate-Temsilciler\obj\Debug\Delegate-Temsilciler.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\Delegate-Temsilciler\obj\Debug\Delegate-Temsilciler.pdb

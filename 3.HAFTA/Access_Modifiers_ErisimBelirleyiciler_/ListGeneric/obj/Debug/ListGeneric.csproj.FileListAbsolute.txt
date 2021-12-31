@@ -1,0 +1,8 @@
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\ListGeneric\bin\Debug\ListGeneric.exe.config
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\ListGeneric\bin\Debug\ListGeneric.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\ListGeneric\bin\Debug\ListGeneric.pdb
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\ListGeneric\obj\Debug\ListGeneric.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\ListGeneric\obj\Debug\ListGeneric.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\ListGeneric\obj\Debug\ListGeneric.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\ListGeneric\obj\Debug\ListGeneric.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\ListGeneric\obj\Debug\ListGeneric.pdb

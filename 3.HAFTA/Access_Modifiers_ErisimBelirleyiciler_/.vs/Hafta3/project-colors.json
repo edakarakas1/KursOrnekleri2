@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1f0f373-93e4-4235-a562-494c7aab3421": {
+      "ProjectGuid": "b1f0f373-93e4-4235-a562-494c7aab3421",
+      "DisplayName": "Access_Modifiers_ErisimBelirleyiciler_",
+      "ColorIndex": 0
+    },
+    "a01c46d4-9763-4e42-a2a1-d6e0466a4040": {
+      "ProjectGuid": "a01c46d4-9763-4e42-a2a1-d6e0466a4040",
+      "DisplayName": "deneme",
+      "ColorIndex": 1
+    },
+    "79ddc403-fde2-4cb0-92cb-b78e21445f65": {
+      "ProjectGuid": "79ddc403-fde2-4cb0-92cb-b78e21445f65",
+      "DisplayName": "AbstractOrnek",
+      "ColorIndex": 2
+    },
+    "832d491c-75a0-470d-9305-abed14ca7225": {
+      "ProjectGuid": "832d491c-75a0-470d-9305-abed14ca7225",
+      "DisplayName": "AbstractSamle",
+      "ColorIndex": 3
+    },
+    "74f7dd3f-69a5-49c3-8ef6-d8d2a53ae692": {
+      "ProjectGuid": "74f7dd3f-69a5-49c3-8ef6-d8d2a53ae692",
+      "DisplayName": "InterfaceKullanimi",
+      "ColorIndex": 4
+    },
+    "0886a8af-7869-4811-8a99-3e1f2225977c": {
+      "ProjectGuid": "0886a8af-7869-4811-8a99-3e1f2225977c",
+      "DisplayName": "kupdikdörtgenInterface",
+      "ColorIndex": 5
+    },
+    "95988844-0836-4caf-96b7-8793fbd2a6a6": {
+      "ProjectGuid": "95988844-0836-4caf-96b7-8793fbd2a6a6",
+      "DisplayName": "InterfaceOrn",
+      "ColorIndex": 6
+    },
+    "166336d4-d483-4e61-828b-2e9f66f10174": {
+      "ProjectGuid": "166336d4-d483-4e61-828b-2e9f66f10174",
+      "DisplayName": "ListGeneric",
+      "ColorIndex": 7
+    },
+    "08458c53-3c77-40e9-a054-44ad98f83815": {
+      "ProjectGuid": "08458c53-3c77-40e9-a054-44ad98f83815",
+      "DisplayName": "GenericKoleksiyonDictionarySortedList",
+      "ColorIndex": 8
+    },
+    "3d0bfdf9-cc36-449a-98fe-13a481e30fbc": {
+      "ProjectGuid": "3d0bfdf9-cc36-449a-98fe-13a481e30fbc",
+      "DisplayName": "GenericClass",
+      "ColorIndex": 9
+    },
+    "ee5e0b79-d8e3-4950-a657-d14651c3ddfa": {
+      "ProjectGuid": "ee5e0b79-d8e3-4950-a657-d14651c3ddfa",
+      "DisplayName": "GenericClass2",
+      "ColorIndex": 10
+    },
+    "c5479446-f97e-4f73-80a7-2830dcc60bea": {
+      "ProjectGuid": "c5479446-f97e-4f73-80a7-2830dcc60bea",
+      "DisplayName": "ToDoListUygulama",
+      "ColorIndex": 11
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6445d85c-345d-443b-9a27-a99b6b532d50": {
+      "ProjectGuid": "6445d85c-345d-443b-9a27-a99b6b532d50",
+      "DisplayName": "Delegate-Temsilciler",
+      "ColorIndex": 12
+    },
+    "21056944-47cb-4fb4-9c45-4a93b5e794df": {
+      "ProjectGuid": "21056944-47cb-4fb4-9c45-4a93b5e794df",
+      "DisplayName": "Delegateisimsizmetodkullanimi",
+      "ColorIndex": 13
+    },
+    "9823c8ed-aee1-4e68-8131-e0be8dc527fb": {
+      "ProjectGuid": "9823c8ed-aee1-4e68-8131-e0be8dc527fb",
+      "DisplayName": "nothesaplama",
+      "ColorIndex": 14
+    },
+    "0a9ce8a8-7f36-4a84-97c6-17463017562e": {
+      "ProjectGuid": "0a9ce8a8-7f36-4a84-97c6-17463017562e",
+      "DisplayName": "SumProjeMaasToplaLinkSehir",
+      "ColorIndex": 15
+    },
+    "43420196-9c91-4f1f-b1aa-81adac590e5c": {
+      "ProjectGuid": "43420196-9c91-4f1f-b1aa-81adac590e5c",
+      "DisplayName": "GenericDictionary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

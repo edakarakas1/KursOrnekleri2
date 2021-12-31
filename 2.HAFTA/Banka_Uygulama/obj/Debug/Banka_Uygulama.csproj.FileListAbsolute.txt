@@ -1,0 +1,11 @@
+C:\Users\SC-303 1\source\repos\Hafta2\Banka_Uygulama\bin\Debug\Banka_Uygulama.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\Banka_Uygulama\bin\Debug\Banka_Uygulama.exe
+C:\Users\SC-303 1\source\repos\Hafta2\Banka_Uygulama\bin\Debug\Banka_Uygulama.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\Banka_Uygulama\obj\Debug\Banka_Uygulama.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Banka_Uygulama\obj\Debug\Banka_Uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Banka_Uygulama\obj\Debug\Banka_Uygulama.Form1.resources
+C:\Users\SC-303 1\source\repos\Hafta2\Banka_Uygulama\obj\Debug\Banka_Uygulama.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Hafta2\Banka_Uygulama\obj\Debug\Banka_Uygulama.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Banka_Uygulama\obj\Debug\Banka_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\Banka_Uygulama\obj\Debug\Banka_Uygulama.exe
+C:\Users\SC-303 1\source\repos\Hafta2\Banka_Uygulama\obj\Debug\Banka_Uygulama.pdb

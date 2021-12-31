@@ -1,0 +1,14 @@
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\obj\Debug\ogrencifakedata.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\obj\Debug\ogrencifakedata.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\obj\Debug\ogrencifakedata.Form1.resources
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\obj\Debug\ogrencifakedata.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\obj\Debug\ogrencifakedata.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\obj\Debug\ogrencifakedata.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\bin\Debug\ogrencifakedata.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\bin\Debug\ogrencifakedata.exe
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\bin\Debug\ogrencifakedata.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\bin\Debug\FakeData.dll
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\bin\Debug\FakeData.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\obj\Debug\ogrencifakedata.csproj.CopyComplete
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\obj\Debug\ogrencifakedata.exe
+C:\Users\SC-303 1\source\repos\Hafta2\ogrencifakedata\obj\Debug\ogrencifakedata.pdb

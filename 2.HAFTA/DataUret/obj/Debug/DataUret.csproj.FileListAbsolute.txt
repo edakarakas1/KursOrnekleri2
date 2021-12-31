@@ -1,0 +1,11 @@
+C:\Users\SC-303 1\source\repos\Hafta2\DataUret\bin\Debug\DataUret.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\DataUret\bin\Debug\DataUret.exe
+C:\Users\SC-303 1\source\repos\Hafta2\DataUret\bin\Debug\DataUret.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\DataUret\obj\Debug\DataUret.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\DataUret\obj\Debug\DataUret.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\DataUret\obj\Debug\DataUret.Form1.resources
+C:\Users\SC-303 1\source\repos\Hafta2\DataUret\obj\Debug\DataUret.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Hafta2\DataUret\obj\Debug\DataUret.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\DataUret\obj\Debug\DataUret.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\DataUret\obj\Debug\DataUret.exe
+C:\Users\SC-303 1\source\repos\Hafta2\DataUret\obj\Debug\DataUret.pdb

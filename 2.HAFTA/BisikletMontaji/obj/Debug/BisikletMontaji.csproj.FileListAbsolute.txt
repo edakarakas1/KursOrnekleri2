@@ -1,0 +1,11 @@
+C:\Users\SC-303 1\source\repos\Hafta2\BisikletMontaji\bin\Debug\BisikletMontaji.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\BisikletMontaji\bin\Debug\BisikletMontaji.exe
+C:\Users\SC-303 1\source\repos\Hafta2\BisikletMontaji\bin\Debug\BisikletMontaji.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\BisikletMontaji\obj\Debug\BisikletMontaji.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\BisikletMontaji\obj\Debug\BisikletMontaji.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\BisikletMontaji\obj\Debug\BisikletMontaji.Form1.resources
+C:\Users\SC-303 1\source\repos\Hafta2\BisikletMontaji\obj\Debug\BisikletMontaji.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Hafta2\BisikletMontaji\obj\Debug\BisikletMontaji.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\BisikletMontaji\obj\Debug\BisikletMontaji.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\BisikletMontaji\obj\Debug\BisikletMontaji.exe
+C:\Users\SC-303 1\source\repos\Hafta2\BisikletMontaji\obj\Debug\BisikletMontaji.pdb

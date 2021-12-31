@@ -1,0 +1,14 @@
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\bin\Debug\SumProjeMaaaTopla.exe.config
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\bin\Debug\SumProjeMaaaTopla.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\bin\Debug\SumProjeMaaaTopla.pdb
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\bin\Debug\FakeData.dll
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\bin\Debug\FakeData.pdb
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\obj\Debug\SumProjeMaasToplaLinkSehir.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\obj\Debug\SumProjeMaaaTopla.Form1.resources
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\obj\Debug\SumProjeMaaaTopla.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\obj\Debug\SumProjeMaasToplaLinkSehir.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\obj\Debug\SumProjeMaasToplaLinkSehir.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\obj\Debug\SumProjeMaasToplaLinkSehir.csproj.CopyComplete
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\obj\Debug\SumProjeMaaaTopla.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\obj\Debug\SumProjeMaaaTopla.pdb
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\SumProjeMaaaTopla\obj\Debug\SumProjeMaasToplaLinkSehir.csproj.AssemblyReference.cache

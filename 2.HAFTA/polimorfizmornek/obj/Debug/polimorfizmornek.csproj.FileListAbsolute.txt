@@ -1,0 +1,14 @@
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\bin\Debug\polimorfizmornek.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\bin\Debug\polimorfizmornek.exe
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\bin\Debug\polimorfizmornek.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\obj\Debug\polimorfizmornek.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\obj\Debug\polimorfizmornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\obj\Debug\polimorfizmornek.FormAna.resources
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\obj\Debug\polimorfizmornek.FrmSilindir.resources
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\obj\Debug\polimorfizmornek.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\obj\Debug\polimorfizmornek.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\obj\Debug\polimorfizmornek.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\obj\Debug\polimorfizmornek.exe
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\obj\Debug\polimorfizmornek.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\obj\Debug\polimorfizmornek.FormDortgen.resources
+C:\Users\SC-303 1\source\repos\Hafta2\polimorfizmornek\obj\Debug\polimorfizmornek.FormKup.resources

@@ -1,0 +1,14 @@
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\bin\Debug\nothesaplama.exe.config
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\bin\Debug\nothesaplama.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\bin\Debug\nothesaplama.pdb
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\bin\Debug\FakeData.dll
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\bin\Debug\FakeData.pdb
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\obj\Debug\nothesaplama.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\obj\Debug\nothesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\obj\Debug\nothesaplama.Form1.resources
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\obj\Debug\nothesaplama.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\obj\Debug\nothesaplama.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\obj\Debug\nothesaplama.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\obj\Debug\nothesaplama.csproj.CopyComplete
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\obj\Debug\nothesaplama.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\nothesaplama\obj\Debug\nothesaplama.pdb

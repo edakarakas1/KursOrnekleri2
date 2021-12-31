@@ -1,0 +1,11 @@
+C:\Users\SC-303 1\source\repos\Hafta2\OopAracGalerisi\bin\Debug\OopAracGalerisi.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\OopAracGalerisi\bin\Debug\OopAracGalerisi.exe
+C:\Users\SC-303 1\source\repos\Hafta2\OopAracGalerisi\bin\Debug\OopAracGalerisi.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\OopAracGalerisi\obj\Debug\OopAracGalerisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\OopAracGalerisi\obj\Debug\OopAracGalerisi.Form1.resources
+C:\Users\SC-303 1\source\repos\Hafta2\OopAracGalerisi\obj\Debug\OopAracGalerisi.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Hafta2\OopAracGalerisi\obj\Debug\OopAracGalerisi.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\OopAracGalerisi\obj\Debug\OopAracGalerisi.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\OopAracGalerisi\obj\Debug\OopAracGalerisi.exe
+C:\Users\SC-303 1\source\repos\Hafta2\OopAracGalerisi\obj\Debug\OopAracGalerisi.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\OopAracGalerisi\obj\Debug\OopAracGalerisi.csproj.AssemblyReference.cache

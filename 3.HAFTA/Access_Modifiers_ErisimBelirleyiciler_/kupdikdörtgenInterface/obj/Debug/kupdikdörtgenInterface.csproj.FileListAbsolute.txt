@@ -1,0 +1,11 @@
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\kupdikdörtgenInterface\obj\Debug\kupdikdörtgenInterface.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\kupdikdörtgenInterface\obj\Debug\kupdikdörtgenInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\kupdikdörtgenInterface\obj\Debug\kupdikdörtgenInterface.Form1.resources
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\kupdikdörtgenInterface\obj\Debug\kupdikdörtgenInterface.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\kupdikdörtgenInterface\obj\Debug\kupdikdörtgenInterface.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\kupdikdörtgenInterface\obj\Debug\kupdikdörtgenInterface.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\kupdikdörtgenInterface\bin\Debug\kupdikdörtgenInterface.exe.config
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\kupdikdörtgenInterface\bin\Debug\kupdikdörtgenInterface.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\kupdikdörtgenInterface\bin\Debug\kupdikdörtgenInterface.pdb
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\kupdikdörtgenInterface\obj\Debug\kupdikdörtgenInterface.exe
+C:\Users\SC-303 1\source\repos\Access_Modifiers_ErisimBelirleyiciler_\kupdikdörtgenInterface\obj\Debug\kupdikdörtgenInterface.pdb

@@ -1,0 +1,8 @@
+C:\Users\SC-303 1\source\repos\Hafta2\kapsulleme_ornek\bin\Debug\kapsulleme_ornek.exe.config
+C:\Users\SC-303 1\source\repos\Hafta2\kapsulleme_ornek\bin\Debug\kapsulleme_ornek.exe
+C:\Users\SC-303 1\source\repos\Hafta2\kapsulleme_ornek\bin\Debug\kapsulleme_ornek.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\kapsulleme_ornek\obj\Debug\kapsulleme_ornek.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\kapsulleme_ornek\obj\Debug\kapsulleme_ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Hafta2\kapsulleme_ornek\obj\Debug\kapsulleme_ornek.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\kapsulleme_ornek\obj\Debug\kapsulleme_ornek.exe
+C:\Users\SC-303 1\source\repos\Hafta2\kapsulleme_ornek\obj\Debug\kapsulleme_ornek.pdb

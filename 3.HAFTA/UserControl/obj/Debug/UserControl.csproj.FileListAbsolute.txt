@@ -1,0 +1,8 @@
+C:\Users\SC-303 1\source\repos\Hafta2\UserControl\bin\Debug\UserControl.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\UserControl\obj\Debug\UserControl.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Hafta2\UserControl\obj\Debug\UserControl.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Hafta2\UserControl\obj\Debug\UserControl.dll
+C:\Users\SC-303 1\source\repos\Hafta2\UserControl\obj\Debug\UserControl.pdb
+C:\Users\SC-303 1\source\repos\Hafta2\UserControl\obj\Debug\UserControl.userkontroltext.resources
+C:\Users\SC-303 1\source\repos\Hafta2\UserControl\obj\Debug\UserControl.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Hafta2\UserControl\obj\Debug\UserControl.csproj.CopyComplete
