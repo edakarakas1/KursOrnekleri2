@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b93f634-8d6e-414e-b632-5e1847c659dd": {
+      "ProjectGuid": "3b93f634-8d6e-414e-b632-5e1847c659dd",
+      "DisplayName": "Ref-OutParemetresi",
+      "ColorIndex": 0
+    },
+    "aab89758-9e58-485f-bede-f4cc6ef34338": {
+      "ProjectGuid": "aab89758-9e58-485f-bede-f4cc6ef34338",
+      "DisplayName": "Ref",
+      "ColorIndex": 1
+    },
+    "55992cfe-2d9a-44ab-9573-72ebc4f3bee3": {
+      "ProjectGuid": "55992cfe-2d9a-44ab-9573-72ebc4f3bee3",
+      "DisplayName": "reqursive",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

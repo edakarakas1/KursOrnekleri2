@@ -1,0 +1,8 @@
+C:\Users\SC-302 1\source\repos\OverloadORN\OverloadORN\bin\Debug\OverloadORN.exe.config
+C:\Users\SC-302 1\source\repos\OverloadORN\OverloadORN\bin\Debug\OverloadORN.exe
+C:\Users\SC-302 1\source\repos\OverloadORN\OverloadORN\bin\Debug\OverloadORN.pdb
+C:\Users\SC-302 1\source\repos\OverloadORN\OverloadORN\obj\Debug\OverloadORN.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\OverloadORN\OverloadORN\obj\Debug\OverloadORN.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\OverloadORN\OverloadORN\obj\Debug\OverloadORN.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\OverloadORN\OverloadORN\obj\Debug\OverloadORN.exe
+C:\Users\SC-302 1\source\repos\OverloadORN\OverloadORN\obj\Debug\OverloadORN.pdb

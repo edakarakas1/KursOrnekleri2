@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d084fe0-b2cc-4735-ae28-531ea947924b": {
+      "ProjectGuid": "1d084fe0-b2cc-4735-ae28-531ea947924b",
+      "DisplayName": "get-type-typeof",
+      "ColorIndex": 0
+    },
+    "bb35d8f8-783c-4723-b6b0-ad610fc1348f": {
+      "ProjectGuid": "bb35d8f8-783c-4723-b6b0-ad610fc1348f",
+      "DisplayName": "TipKontrolu",
+      "ColorIndex": 1
+    },
+    "a307d7cd-44ce-4b5a-a37b-c6ab812364a0": {
+      "ProjectGuid": "a307d7cd-44ce-4b5a-a37b-c6ab812364a0",
+      "DisplayName": "SwitchCaseWhen",
+      "ColorIndex": 2
+    },
+    "7172c0ee-d1ea-4dab-b209-e114226b28c7": {
+      "ProjectGuid": "7172c0ee-d1ea-4dab-b209-e114226b28c7",
+      "DisplayName": "BasitMethotTanımlama",
+      "ColorIndex": 3
+    },
+    "cececf53-a8e4-4597-9e8d-a48a86fd75b2": {
+      "ProjectGuid": "cececf53-a8e4-4597-9e8d-a48a86fd75b2",
+      "DisplayName": "basitmethot2",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

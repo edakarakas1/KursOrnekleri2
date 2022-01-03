@@ -1,0 +1,8 @@
+C:\Users\SC-302 1\source\repos\Havayollari\Havayollari\obj\Debug\Havayollari.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\Havayollari\Havayollari\obj\Debug\Havayollari.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\Havayollari\Havayollari\obj\Debug\Havayollari.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\Havayollari\Havayollari\bin\Debug\Havayollari.exe.config
+C:\Users\SC-302 1\source\repos\Havayollari\Havayollari\bin\Debug\Havayollari.exe
+C:\Users\SC-302 1\source\repos\Havayollari\Havayollari\bin\Debug\Havayollari.pdb
+C:\Users\SC-302 1\source\repos\Havayollari\Havayollari\obj\Debug\Havayollari.exe
+C:\Users\SC-302 1\source\repos\Havayollari\Havayollari\obj\Debug\Havayollari.pdb

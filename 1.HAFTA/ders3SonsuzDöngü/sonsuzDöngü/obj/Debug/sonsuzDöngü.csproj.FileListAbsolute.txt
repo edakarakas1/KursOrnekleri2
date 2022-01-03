@@ -1,0 +1,11 @@
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\sonsuzDöngü\bin\Debug\sonsuzDöngü.exe.config
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\sonsuzDöngü\bin\Debug\sonsuzDöngü.exe
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\sonsuzDöngü\bin\Debug\sonsuzDöngü.pdb
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\sonsuzDöngü\obj\Debug\sonsuzDöngü.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\sonsuzDöngü\obj\Debug\sonsuzDöngü.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\sonsuzDöngü\obj\Debug\sonsuzDöngü.Form1.resources
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\sonsuzDöngü\obj\Debug\sonsuzDöngü.Properties.Resources.resources
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\sonsuzDöngü\obj\Debug\sonsuzDöngü.csproj.GenerateResource.cache
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\sonsuzDöngü\obj\Debug\sonsuzDöngü.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\sonsuzDöngü\obj\Debug\sonsuzDöngü.exe
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\sonsuzDöngü\obj\Debug\sonsuzDöngü.pdb

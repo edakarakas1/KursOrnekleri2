@@ -1,0 +1,8 @@
+C:\Users\SC-302 1\source\repos\cokboyutludiziler-multidimensional\cokboyutludiziler-multidimensional\bin\Debug\cokboyutludiziler-multidimensional.exe.config
+C:\Users\SC-302 1\source\repos\cokboyutludiziler-multidimensional\cokboyutludiziler-multidimensional\bin\Debug\cokboyutludiziler-multidimensional.exe
+C:\Users\SC-302 1\source\repos\cokboyutludiziler-multidimensional\cokboyutludiziler-multidimensional\bin\Debug\cokboyutludiziler-multidimensional.pdb
+C:\Users\SC-302 1\source\repos\cokboyutludiziler-multidimensional\cokboyutludiziler-multidimensional\obj\Debug\cokboyutludiziler-multidimensional.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\cokboyutludiziler-multidimensional\cokboyutludiziler-multidimensional\obj\Debug\cokboyutludiziler-multidimensional.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\cokboyutludiziler-multidimensional\cokboyutludiziler-multidimensional\obj\Debug\cokboyutludiziler-multidimensional.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\cokboyutludiziler-multidimensional\cokboyutludiziler-multidimensional\obj\Debug\cokboyutludiziler-multidimensional.exe
+C:\Users\SC-302 1\source\repos\cokboyutludiziler-multidimensional\cokboyutludiziler-multidimensional\obj\Debug\cokboyutludiziler-multidimensional.pdb

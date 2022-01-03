@@ -1,0 +1,8 @@
+C:\Users\SC-302 1\source\repos\get-type-typeof\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\SC-302 1\source\repos\get-type-typeof\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\SC-302 1\source\repos\get-type-typeof\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\SC-302 1\source\repos\get-type-typeof\SwitchCase\obj\Debug\SwitchCaseWhen.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\get-type-typeof\SwitchCase\obj\Debug\SwitchCaseWhen.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\get-type-typeof\SwitchCase\obj\Debug\SwitchCaseWhen.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\get-type-typeof\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\SC-302 1\source\repos\get-type-typeof\SwitchCase\obj\Debug\SwitchCase.pdb

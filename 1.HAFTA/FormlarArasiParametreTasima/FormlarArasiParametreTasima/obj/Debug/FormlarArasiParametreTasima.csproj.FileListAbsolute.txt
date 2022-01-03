@@ -1,0 +1,12 @@
+C:\Users\SC-302 1\source\repos\FormlarArasiParametreTasima\FormlarArasiParametreTasima\bin\Debug\FormlarArasiParametreTasima.exe.config
+C:\Users\SC-302 1\source\repos\FormlarArasiParametreTasima\FormlarArasiParametreTasima\bin\Debug\FormlarArasiParametreTasima.exe
+C:\Users\SC-302 1\source\repos\FormlarArasiParametreTasima\FormlarArasiParametreTasima\bin\Debug\FormlarArasiParametreTasima.pdb
+C:\Users\SC-302 1\source\repos\FormlarArasiParametreTasima\FormlarArasiParametreTasima\obj\Debug\FormlarArasiParametreTasima.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\FormlarArasiParametreTasima\FormlarArasiParametreTasima\obj\Debug\FormlarArasiParametreTasima.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\FormlarArasiParametreTasima\FormlarArasiParametreTasima\obj\Debug\FormlarArasiParametreTasima.AnaForm.resources
+C:\Users\SC-302 1\source\repos\FormlarArasiParametreTasima\FormlarArasiParametreTasima\obj\Debug\FormlarArasiParametreTasima.HedefForm.resources
+C:\Users\SC-302 1\source\repos\FormlarArasiParametreTasima\FormlarArasiParametreTasima\obj\Debug\FormlarArasiParametreTasima.Properties.Resources.resources
+C:\Users\SC-302 1\source\repos\FormlarArasiParametreTasima\FormlarArasiParametreTasima\obj\Debug\FormlarArasiParametreTasima.csproj.GenerateResource.cache
+C:\Users\SC-302 1\source\repos\FormlarArasiParametreTasima\FormlarArasiParametreTasima\obj\Debug\FormlarArasiParametreTasima.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\FormlarArasiParametreTasima\FormlarArasiParametreTasima\obj\Debug\FormlarArasiParametreTasima.exe
+C:\Users\SC-302 1\source\repos\FormlarArasiParametreTasima\FormlarArasiParametreTasima\obj\Debug\FormlarArasiParametreTasima.pdb

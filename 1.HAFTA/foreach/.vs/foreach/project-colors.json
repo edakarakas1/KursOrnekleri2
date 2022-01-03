@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b16edbf5-9db5-4ca4-9bc5-e81de83257fb": {
+      "ProjectGuid": "b16edbf5-9db5-4ca4-9bc5-e81de83257fb",
+      "DisplayName": "foreach",
+      "ColorIndex": 0
+    },
+    "d16be67e-169d-41ba-b77d-b18ced10713b": {
+      "ProjectGuid": "d16be67e-169d-41ba-b77d-b18ced10713b",
+      "DisplayName": "Foreach_Gunler",
+      "ColorIndex": 1
+    },
+    "915ef544-21c5-4788-909c-8822178be71a": {
+      "ProjectGuid": "915ef544-21c5-4788-909c-8822178be71a",
+      "DisplayName": "SayısalLoto",
+      "ColorIndex": 2
+    },
+    "d1fdb831-8e21-43c5-b0d9-47ae2e670498": {
+      "ProjectGuid": "d1fdb831-8e21-43c5-b0d9-47ae2e670498",
+      "DisplayName": "SinemaBileti",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

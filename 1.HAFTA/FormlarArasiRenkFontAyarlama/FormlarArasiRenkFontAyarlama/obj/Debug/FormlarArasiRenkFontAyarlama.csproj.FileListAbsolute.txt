@@ -1,0 +1,12 @@
+C:\Users\SC-302 1\source\repos\FormlarArasiRenkFontAyarlama\FormlarArasiRenkFontAyarlama\bin\Debug\FormlarArasiRenkFontAyarlama.exe.config
+C:\Users\SC-302 1\source\repos\FormlarArasiRenkFontAyarlama\FormlarArasiRenkFontAyarlama\bin\Debug\FormlarArasiRenkFontAyarlama.exe
+C:\Users\SC-302 1\source\repos\FormlarArasiRenkFontAyarlama\FormlarArasiRenkFontAyarlama\bin\Debug\FormlarArasiRenkFontAyarlama.pdb
+C:\Users\SC-302 1\source\repos\FormlarArasiRenkFontAyarlama\FormlarArasiRenkFontAyarlama\obj\Debug\FormlarArasiRenkFontAyarlama.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\FormlarArasiRenkFontAyarlama\FormlarArasiRenkFontAyarlama\obj\Debug\FormlarArasiRenkFontAyarlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\FormlarArasiRenkFontAyarlama\FormlarArasiRenkFontAyarlama\obj\Debug\FormlarArasiRenkFontAyarlama.AnaForm.resources
+C:\Users\SC-302 1\source\repos\FormlarArasiRenkFontAyarlama\FormlarArasiRenkFontAyarlama\obj\Debug\FormlarArasiRenkFontAyarlama.HedefForm.resources
+C:\Users\SC-302 1\source\repos\FormlarArasiRenkFontAyarlama\FormlarArasiRenkFontAyarlama\obj\Debug\FormlarArasiRenkFontAyarlama.Properties.Resources.resources
+C:\Users\SC-302 1\source\repos\FormlarArasiRenkFontAyarlama\FormlarArasiRenkFontAyarlama\obj\Debug\FormlarArasiRenkFontAyarlama.csproj.GenerateResource.cache
+C:\Users\SC-302 1\source\repos\FormlarArasiRenkFontAyarlama\FormlarArasiRenkFontAyarlama\obj\Debug\FormlarArasiRenkFontAyarlama.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\FormlarArasiRenkFontAyarlama\FormlarArasiRenkFontAyarlama\obj\Debug\FormlarArasiRenkFontAyarlama.exe
+C:\Users\SC-302 1\source\repos\FormlarArasiRenkFontAyarlama\FormlarArasiRenkFontAyarlama\obj\Debug\FormlarArasiRenkFontAyarlama.pdb

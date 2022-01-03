@@ -1,0 +1,11 @@
+C:\Users\SC-302 1\source\repos\get-type-typeof\TipKontrolu\bin\Debug\TipKontrolu.exe.config
+C:\Users\SC-302 1\source\repos\get-type-typeof\TipKontrolu\bin\Debug\TipKontrolu.exe
+C:\Users\SC-302 1\source\repos\get-type-typeof\TipKontrolu\bin\Debug\TipKontrolu.pdb
+C:\Users\SC-302 1\source\repos\get-type-typeof\TipKontrolu\obj\Debug\TipKontrolu.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\get-type-typeof\TipKontrolu\obj\Debug\TipKontrolu.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\get-type-typeof\TipKontrolu\obj\Debug\TipKontrolu.Form1.resources
+C:\Users\SC-302 1\source\repos\get-type-typeof\TipKontrolu\obj\Debug\TipKontrolu.Properties.Resources.resources
+C:\Users\SC-302 1\source\repos\get-type-typeof\TipKontrolu\obj\Debug\TipKontrolu.csproj.GenerateResource.cache
+C:\Users\SC-302 1\source\repos\get-type-typeof\TipKontrolu\obj\Debug\TipKontrolu.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\get-type-typeof\TipKontrolu\obj\Debug\TipKontrolu.exe
+C:\Users\SC-302 1\source\repos\get-type-typeof\TipKontrolu\obj\Debug\TipKontrolu.pdb

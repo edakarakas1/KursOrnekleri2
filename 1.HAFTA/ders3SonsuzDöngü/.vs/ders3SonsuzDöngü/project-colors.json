@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d8baaa2-6158-4964-80bd-2b8b28a71299": {
+      "ProjectGuid": "3d8baaa2-6158-4964-80bd-2b8b28a71299",
+      "DisplayName": "ders3SonsuzDöngü",
+      "ColorIndex": 0
+    },
+    "18f1b1d3-71f7-4274-8330-20d9c3a2787e": {
+      "ProjectGuid": "18f1b1d3-71f7-4274-8330-20d9c3a2787e",
+      "DisplayName": "sonsuzDöngü",
+      "ColorIndex": 1
+    },
+    "be1fbebd-112d-4706-bd29-850bd04291d2": {
+      "ProjectGuid": "be1fbebd-112d-4706-bd29-850bd04291d2",
+      "DisplayName": "döngülerlecombobox",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

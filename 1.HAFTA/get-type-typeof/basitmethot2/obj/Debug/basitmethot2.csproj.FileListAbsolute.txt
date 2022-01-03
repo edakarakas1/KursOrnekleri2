@@ -1,0 +1,8 @@
+C:\Users\SC-302 1\source\repos\get-type-typeof\basitmethot2\bin\Debug\basitmethot2.exe.config
+C:\Users\SC-302 1\source\repos\get-type-typeof\basitmethot2\bin\Debug\basitmethot2.exe
+C:\Users\SC-302 1\source\repos\get-type-typeof\basitmethot2\bin\Debug\basitmethot2.pdb
+C:\Users\SC-302 1\source\repos\get-type-typeof\basitmethot2\obj\Debug\basitmethot2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\get-type-typeof\basitmethot2\obj\Debug\basitmethot2.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\get-type-typeof\basitmethot2\obj\Debug\basitmethot2.exe
+C:\Users\SC-302 1\source\repos\get-type-typeof\basitmethot2\obj\Debug\basitmethot2.pdb
+C:\Users\SC-302 1\source\repos\get-type-typeof\basitmethot2\obj\Debug\basitmethot2.csproj.AssemblyReference.cache

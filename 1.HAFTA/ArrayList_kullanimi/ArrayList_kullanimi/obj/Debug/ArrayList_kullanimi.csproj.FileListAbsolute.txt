@@ -1,0 +1,8 @@
+C:\Users\SC-302 1\source\repos\ArrayList_kullanimi\ArrayList_kullanimi\bin\Debug\ArrayList_kullanimi.exe.config
+C:\Users\SC-302 1\source\repos\ArrayList_kullanimi\ArrayList_kullanimi\bin\Debug\ArrayList_kullanimi.exe
+C:\Users\SC-302 1\source\repos\ArrayList_kullanimi\ArrayList_kullanimi\bin\Debug\ArrayList_kullanimi.pdb
+C:\Users\SC-302 1\source\repos\ArrayList_kullanimi\ArrayList_kullanimi\obj\Debug\ArrayList_kullanimi.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\ArrayList_kullanimi\ArrayList_kullanimi\obj\Debug\ArrayList_kullanimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\ArrayList_kullanimi\ArrayList_kullanimi\obj\Debug\ArrayList_kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\ArrayList_kullanimi\ArrayList_kullanimi\obj\Debug\ArrayList_kullanimi.exe
+C:\Users\SC-302 1\source\repos\ArrayList_kullanimi\ArrayList_kullanimi\obj\Debug\ArrayList_kullanimi.pdb

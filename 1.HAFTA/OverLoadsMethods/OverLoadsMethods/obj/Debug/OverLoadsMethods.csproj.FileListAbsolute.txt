@@ -1,0 +1,8 @@
+C:\Users\SC-302 1\source\repos\OverLoadsMethods\OverLoadsMethods\bin\Debug\OverLoadsMethods.exe.config
+C:\Users\SC-302 1\source\repos\OverLoadsMethods\OverLoadsMethods\bin\Debug\OverLoadsMethods.exe
+C:\Users\SC-302 1\source\repos\OverLoadsMethods\OverLoadsMethods\bin\Debug\OverLoadsMethods.pdb
+C:\Users\SC-302 1\source\repos\OverLoadsMethods\OverLoadsMethods\obj\Debug\OverLoadsMethods.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\OverLoadsMethods\OverLoadsMethods\obj\Debug\OverLoadsMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\OverLoadsMethods\OverLoadsMethods\obj\Debug\OverLoadsMethods.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\OverLoadsMethods\OverLoadsMethods\obj\Debug\OverLoadsMethods.exe
+C:\Users\SC-302 1\source\repos\OverLoadsMethods\OverLoadsMethods\obj\Debug\OverLoadsMethods.pdb

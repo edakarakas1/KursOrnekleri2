@@ -1,0 +1,11 @@
+C:\Users\SC-302 1\source\repos\Hamburger\Hamburger\bin\Debug\Hamburger.exe.config
+C:\Users\SC-302 1\source\repos\Hamburger\Hamburger\bin\Debug\Hamburger.exe
+C:\Users\SC-302 1\source\repos\Hamburger\Hamburger\bin\Debug\Hamburger.pdb
+C:\Users\SC-302 1\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.Form1.resources
+C:\Users\SC-302 1\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.Properties.Resources.resources
+C:\Users\SC-302 1\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.csproj.GenerateResource.cache
+C:\Users\SC-302 1\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.exe
+C:\Users\SC-302 1\source\repos\Hamburger\Hamburger\obj\Debug\Hamburger.pdb

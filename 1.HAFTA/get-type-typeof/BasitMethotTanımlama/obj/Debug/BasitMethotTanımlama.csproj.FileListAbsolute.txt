@@ -1,0 +1,8 @@
+C:\Users\SC-302 1\source\repos\get-type-typeof\BasitMethotTanımlama\bin\Debug\BasitMethotTanımlama.exe.config
+C:\Users\SC-302 1\source\repos\get-type-typeof\BasitMethotTanımlama\bin\Debug\BasitMethotTanımlama.exe
+C:\Users\SC-302 1\source\repos\get-type-typeof\BasitMethotTanımlama\bin\Debug\BasitMethotTanımlama.pdb
+C:\Users\SC-302 1\source\repos\get-type-typeof\BasitMethotTanımlama\obj\Debug\BasitMethotTanımlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\get-type-typeof\BasitMethotTanımlama\obj\Debug\BasitMethotTanımlama.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\get-type-typeof\BasitMethotTanımlama\obj\Debug\BasitMethotTanımlama.exe
+C:\Users\SC-302 1\source\repos\get-type-typeof\BasitMethotTanımlama\obj\Debug\BasitMethotTanımlama.pdb
+C:\Users\SC-302 1\source\repos\get-type-typeof\BasitMethotTanımlama\obj\Debug\BasitMethotTanımlama.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\döngülerlecombobox\bin\Debug\döngülerlecombobox.exe.config
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\döngülerlecombobox\bin\Debug\döngülerlecombobox.exe
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\döngülerlecombobox\bin\Debug\döngülerlecombobox.pdb
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\döngülerlecombobox\obj\Debug\döngülerlecombobox.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\döngülerlecombobox\obj\Debug\döngülerlecombobox.Form1.resources
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\döngülerlecombobox\obj\Debug\döngülerlecombobox.Properties.Resources.resources
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\döngülerlecombobox\obj\Debug\döngülerlecombobox.csproj.GenerateResource.cache
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\döngülerlecombobox\obj\Debug\döngülerlecombobox.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\döngülerlecombobox\obj\Debug\döngülerlecombobox.exe
+C:\Users\SC-302 1\source\repos\ders3SonsuzDöngü\döngülerlecombobox\obj\Debug\döngülerlecombobox.pdb

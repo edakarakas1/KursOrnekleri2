@@ -1,0 +1,8 @@
+C:\Users\SC-302 1\source\repos\foreach\SayısalLoto\bin\Debug\SayısalLoto.exe.config
+C:\Users\SC-302 1\source\repos\foreach\SayısalLoto\bin\Debug\SayısalLoto.exe
+C:\Users\SC-302 1\source\repos\foreach\SayısalLoto\bin\Debug\SayısalLoto.pdb
+C:\Users\SC-302 1\source\repos\foreach\SayısalLoto\obj\Debug\SayısalLoto.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\foreach\SayısalLoto\obj\Debug\SayısalLoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\foreach\SayısalLoto\obj\Debug\SayısalLoto.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\foreach\SayısalLoto\obj\Debug\SayısalLoto.exe
+C:\Users\SC-302 1\source\repos\foreach\SayısalLoto\obj\Debug\SayısalLoto.pdb

@@ -1,0 +1,8 @@
+C:\Users\SC-302 1\source\repos\foreach\SinemaBileti\bin\Debug\SinemaBileti.exe.config
+C:\Users\SC-302 1\source\repos\foreach\SinemaBileti\bin\Debug\SinemaBileti.exe
+C:\Users\SC-302 1\source\repos\foreach\SinemaBileti\bin\Debug\SinemaBileti.pdb
+C:\Users\SC-302 1\source\repos\foreach\SinemaBileti\obj\Debug\SinemaBileti.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\foreach\SinemaBileti\obj\Debug\SinemaBileti.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\foreach\SinemaBileti\obj\Debug\SinemaBileti.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\foreach\SinemaBileti\obj\Debug\SinemaBileti.exe
+C:\Users\SC-302 1\source\repos\foreach\SinemaBileti\obj\Debug\SinemaBileti.pdb

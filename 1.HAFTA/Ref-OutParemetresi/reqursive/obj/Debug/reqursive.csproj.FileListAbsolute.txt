@@ -1,0 +1,8 @@
+C:\Users\SC-302 1\source\repos\Ref-OutParemetresi\reqursive\bin\Debug\reqursive.exe.config
+C:\Users\SC-302 1\source\repos\Ref-OutParemetresi\reqursive\bin\Debug\reqursive.exe
+C:\Users\SC-302 1\source\repos\Ref-OutParemetresi\reqursive\bin\Debug\reqursive.pdb
+C:\Users\SC-302 1\source\repos\Ref-OutParemetresi\reqursive\obj\Debug\reqursive.csproj.AssemblyReference.cache
+C:\Users\SC-302 1\source\repos\Ref-OutParemetresi\reqursive\obj\Debug\reqursive.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-302 1\source\repos\Ref-OutParemetresi\reqursive\obj\Debug\reqursive.csproj.CoreCompileInputs.cache
+C:\Users\SC-302 1\source\repos\Ref-OutParemetresi\reqursive\obj\Debug\reqursive.exe
+C:\Users\SC-302 1\source\repos\Ref-OutParemetresi\reqursive\obj\Debug\reqursive.pdb
