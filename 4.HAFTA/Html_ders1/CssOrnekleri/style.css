@@ -1,0 +1,52 @@
+﻿/*
+    id:Tek bir elemente stil uygulamak için kullanılır
+    class:bir element grubuna uygulamak istersem
+*/
+/*
+    inline css:Direk element tanımı içinde stil tanımı yapılır
+    externel css:harici bir dosyadan sayfama referans alarak kullanılır.
+    internal css:Html sayfasında head etiketleri arasında head etiketleri arasında <style>etiketinin içinde tanımlanır
+*/
+
+body {
+    background-color: green;
+    color: antiquewhite;
+    background-image: url(komedi.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /*background-attachment: scroll; */ /*resim sayfayı kaydırınca sayfa ile birlikte yukarı kayar*/
+    /*background-position: bottom right;*/ /*arka resmin konumunu belirler*/
+    background-position: 50% 25%;
+    /* background: yellow url(komedi.jpg) no-repeat fixed bottom right*/
+}
+h1{
+    color:red;
+    text-align:center;
+}
+div{
+    background-color:blueviolet;
+    opacity:0.3;/*0-1 arasında değer alır*/
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+    text-indent: 50px; /*yazıları belli miktar girintili şekilde yazar*/
+    text-align: justify; /*justify:iki yana yasla */
+    text-decoration: line-through; /*line-through:yazıların üzerini çizer*/
+    letter-spacing: 5px; /*karakterler arası boşluk*/
+    text-transform: capitalize; /*capitalize:ilk harfleri büyük yazar*/
+    /*font:bold italic 15px arial; tek seferde yazılabilir*/
+}
+a{
+    color:black;
+    text-decoration:none;
+}
+a:hover{
+    color:red;
+    text-decoration:underline
+}
+a:active{
+    color:blue
+}
