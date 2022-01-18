@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "458b7440-df2e-4eed-a995-5f4d9eca3b88": {
+      "ProjectGuid": "458b7440-df2e-4eed-a995-5f4d9eca3b88",
+      "DisplayName": "Jsonn",
+      "ColorIndex": 0
+    },
+    "9357881c-13a2-44ae-9cf2-e1d83bc224c0": {
+      "ProjectGuid": "9357881c-13a2-44ae-9cf2-e1d83bc224c0",
+      "DisplayName": "Jsonokuma",
+      "ColorIndex": 1
+    },
+    "cbafaf04-0cb4-4217-a83b-0439830b1d9a": {
+      "ProjectGuid": "cbafaf04-0cb4-4217-a83b-0439830b1d9a",
+      "DisplayName": "jsonproject",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

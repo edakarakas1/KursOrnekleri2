@@ -1,0 +1,14 @@
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\bin\Debug\jsonproject.exe.config
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\bin\Debug\jsonproject.exe
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\bin\Debug\jsonproject.pdb
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\obj\Debug\jsonproject.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\obj\Debug\jsonproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\obj\Debug\jsonproject.Form1.resources
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\obj\Debug\jsonproject.Properties.Resources.resources
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\obj\Debug\jsonproject.csproj.GenerateResource.cache
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\obj\Debug\jsonproject.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\obj\Debug\jsonproject.exe
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\obj\Debug\jsonproject.pdb
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SC-303 1\source\repos\Jsonn\jsonproject\obj\Debug\jsonproject.csproj.CopyComplete

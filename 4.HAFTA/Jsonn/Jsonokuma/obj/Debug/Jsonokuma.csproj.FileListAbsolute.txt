@@ -1,0 +1,10 @@
+C:\Users\SC-303 1\source\repos\Jsonn\Jsonokuma\bin\Debug\Jsonokuma.exe.config
+C:\Users\SC-303 1\source\repos\Jsonn\Jsonokuma\bin\Debug\Jsonokuma.exe
+C:\Users\SC-303 1\source\repos\Jsonn\Jsonokuma\bin\Debug\Jsonokuma.pdb
+C:\Users\SC-303 1\source\repos\Jsonn\Jsonokuma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SC-303 1\source\repos\Jsonn\Jsonokuma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SC-303 1\source\repos\Jsonn\Jsonokuma\obj\Debug\Jsonokuma.csproj.SuggestedBindingRedirects.cache
+C:\Users\SC-303 1\source\repos\Jsonn\Jsonokuma\obj\Debug\Jsonokuma.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\Jsonn\Jsonokuma\obj\Debug\Jsonokuma.csproj.CopyComplete
+C:\Users\SC-303 1\source\repos\Jsonn\Jsonokuma\obj\Debug\Jsonokuma.exe
+C:\Users\SC-303 1\source\repos\Jsonn\Jsonokuma\obj\Debug\Jsonokuma.pdb
