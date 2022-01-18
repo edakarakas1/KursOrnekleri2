@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+            font-size: 14px Sans-serif;  
+        }
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        #container{
+            width: 50%;
+            margin: 10px auto;
+            text-align: center;
+            margin:100px auto ;
+        }
+        #menu{
+            width: 50%;
+            margin: 0 auto; 
+            display: block;
+        }
+        #menu ul li{
+            float: left;
+            list-style: none;
+            margin-top: 7px;
+            padding-top: 7px;
+        }
+        #menu ul li a{
+            padding: 10px 7px;
+            margin-right: 5px;
+            text-decoration: none;
+            background-color: #eee;
+            color: #333;
+            font-weight: 600;
+        }
+        #menu ul li a:hover,#menu ul li a:active,.current{
+            background-color: #333 !important;
+            color: #eee !important;/*!important öncelik işlem sırasını belirler*/
+        }
+    </style>
+</head>
+<body>
+    <div id="menu">
+        <ul>
+            <li><a class="current" data-url="index.html" href="#home"> Anasayfa</a></li>
+            <li><a data-url="about.html" href="#about">Hakkımızda</a></li>
+            <li><a data-url="projects.html" href="#projects">Referanslarımız</a></li>
+            <li><a data-url="contacts.html" href="#contact">İletişim</a></li>
+        </ul>
+    </div>
+    <section class="container">
+    <div id="container"><h3>Burası Anasayfa</h3></div>
+    </section>
+    <script>
+        $(function(){
+            $("#menu ul li a").click(function(){
+                var url =$(this).data("url");
+               // alert(url);
+               if(url=="index.html"){
+                   $(".container").load("home.html");
+               }
+               else{
+               $(".container").load(url);}
+               $("#menu ul li a").removeClass("current");
+               $(this).addClass("current");
+            });
+        })
+    </script>
+
+</body>
+</html>

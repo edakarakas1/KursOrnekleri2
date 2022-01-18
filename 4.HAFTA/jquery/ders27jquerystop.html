@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        #kayan,#panel{
+           
+            text-align: center;
+            background-color: burlywood;
+            columns: brown;
+            border: solid 1px blueviolet;
+            border-radius: 3px;
+            padding: 5px;
+        }
+        #panel{
+            padding: 50px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <button >Kaydırmayı Durdur</button>
+    <button >Kaydırmaya Devam Et</button>
+    <div id="kayan">Paneli Aç</div>
+    <div id="panel">Açılan Panel</div>
+    <script>
+        $(function(){
+            $("#kayan").click(function(){
+                $("#panel").slideDown(2000);
+               
+            });
+            $("button").eq(0).click(function(){
+                $("#panel").stop();
+            });
+            $("button").eq(1).click(function(){
+                $("#panel").slideDown(2000);
+                
+            });
+        });   
+    </script>
+</body>
+</html>

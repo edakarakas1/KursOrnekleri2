@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        div{
+            height: 300px;
+            width: 300px;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <ul>
+            <li>item1</li>
+            <li>item2</li>
+            <li><p>Çocuk</p>></li>
+        </ul>
+    </div>
+    <script>
+        $("p").parents().eq(2).css("background","yellow");//eq verilen index değerini alır kacıncı atasını istiyorsan buradan alınır.0.indexde cocuktakı <li>yi alır 1. de <ul> alır 2. de <div> alır 3. de <body> alır
+    </script>
+</body>
+</html>

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+ 
+     div{
+         width: 250px;
+         height: 250px;
+         float: right;
+         background-color: rgb(41, 185, 185);
+     }
+    #icli,#icli2{
+         color: orange;
+         display: none;
+     }
+     #hakkimiz,#iletisim{
+         cursor: pointer;
+     }
+        /*<body>
+    <div>
+        <ul>
+            <li>Anasayfa</li>
+            <li id="hakkimizdali">Hakkımızda
+                <ul>
+                    <li class="icli">Biz Kimiz?</li>
+                    <li class="icli">Neler Yaparız?</li>
+                </ul>
+            </li>
+            <li id="iletisimli">İletişim
+                <ul>
+                    <li id="icli2">Konum</li>
+                    <li id="icli2">SosyalMedya</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <script>
+        $(function(){
+            $("#hakkimizdali").click(function(){
+                $("#hakkimizdali li").css("display","block");
+$(".icli").parent().slideToggle(2000);
+            });
+
+            $("#iletisimli").click(function(){
+                $("#iletisimli li").css("display","block");
+                $("#icli2").parent().slideToggle(2000);
+            });
+        });
+    </script>
+
+    <style>
+        div{
+            background-color: grey;
+            color: forestgreen;
+            width: 200px;
+            height: 200px;
+            padding-top: 10px;
+            float: right;
+        }
+        li{
+            color: yellow;
+            cursor: pointer;
+        }
+        ul li ul li{
+            color: orange;
+            margin-left: 5px;
+        }
+        #hakkimizdali li{
+            display: none;
+        }
+        #iletisimli li{
+            display: none;
+        }
+    </style>
+
+*/
+    </style>
+</head>
+<body>
+    <div id="menu">
+        <ul>
+        <li><a id="">Anasayfa</a></li>
+        <li><a id="hakkimiz">Hakkımızda</a>
+            <ul>
+            <li id="icli">Biz Kimiz?</li>
+            <li id="icli">Neler Yaparız?</li>
+            </ul>
+        </li>
+        <li><a id="">Ürünler</a></li>
+        <li><a id="iletisim">İletişim</a>
+            <ul>
+                <li id="icli2">Konum</li>
+                <li id="icli2">Sosyal Medya</li>
+                </ul>
+            </li>
+        </ul>
+        
+    </div>
+    <script>
+        $(function () {
+         $("#hakkimiz").click(function(){
+             $("#hakkimiz li").css("display","block")
+                $("#icli").parent().slideToggle(2000);
+            });
+            $("#iletisim").click(function(){
+                $("#iletisim li").css("display","block")
+                $("#icli2").parent().slideToggle(2000);
+            });
+        });
+    </script>
+</body>
+</html>

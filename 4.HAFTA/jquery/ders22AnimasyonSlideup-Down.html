@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        div{
+            background-color: yellow;
+            color: black;
+            /* display: none; */
+        }
+        p{
+            background: purple;
+            text-align: center;
+            padding: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <p>Slide Down</p>
+    <p>Slide Up</p>
+    <p>Slide Toggle</p>
+    <div>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione minima deserunt laborum officia quo possimus id quaerat quas ut hic? Esse saepe quis autem repudiandae a placeat omnis excepturi beatae. 
+
+       Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente quisquam mollitia cumque excepturi rem officiis, error illo omnis deserunt. Tempora quis hic consequatur ex nobis.
+    </div>
+    <script>
+        $(function () {
+            $("p").eq(0).click(function(){
+                $("div").slideDown(2000);
+            });
+            $("p").eq(1).click(function(){
+                $("div").slideUp(2000);
+            });
+           $("p").eq(2).click(function(){
+               $("div").slideToggle(3000);
+           });
+        });
+
+
+
+    </script>
+</body>
+</html>

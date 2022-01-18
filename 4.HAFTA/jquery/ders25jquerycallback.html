@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+</head>
+<body>
+    <button>Gizle</button>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur sint asperiores magni incidunt. Quibusdam vel asperiores quas ea tenetur nihil at ducimus minus, alias atque molestias earum beatae voluptas quaerat.</p>
+    <script>
+        $(function(){
+            // $("button").click(function(){//önce mesaj gelir sonra gizlenir
+            //     $("p").hide(1000);
+            //     alert("paragraf kapandı");
+            // });
+            $("button").click(function(){//önce gizlenir sonra mesaj gelir
+                $("p").hide("slow",function(){
+                    alert("paragraf kapandı");  
+                }); 
+            });
+        });
+    </script>
+
+</body>
+</html>
