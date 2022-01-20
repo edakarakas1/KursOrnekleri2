@@ -1,0 +1,50 @@
+﻿@model  modeluygulama.Models.MultiModel
+@{
+    ViewBag.Title = "Liste";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+@*herşey dogru ama gelmiyor tekrar bak*@
+<h2>Müşteri Liste</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Ad</th>
+            <th>Adres</th>
+            <th>Telefon</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.clist)
+        {
+            <tr>
+                <td>@item.CustomerID</td>
+                <td>@item.CompanyName</td>
+                <td>@item.Adress</td>
+                <td>@item.Phone</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h2>Çalışan liste</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Ad</th>
+            <th>Soyad</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.elist)
+        {
+            <tr>
+                <td>@item.EmployeesID</td>
+                <td>@item.LastName</td>
+                <td>@item.FirstName</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

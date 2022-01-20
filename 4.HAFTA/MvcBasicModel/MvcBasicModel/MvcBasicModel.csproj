@@ -93,6 +93,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adres.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\DataController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -110,6 +111,7 @@
     <Content Include="Views\Shared\_LayoutPage.cshtml" />
     <Content Include="Views\Data\Webmaster.cshtml" />
     <Content Include="Views\Data\Personel.cshtml" />
+    <Content Include="Views\Data\Adres.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

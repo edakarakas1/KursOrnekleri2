@@ -52,5 +52,18 @@ namespace MvcBasicModel.Controllers
             plist.Add(p3);
             return View(plist);
         }
+        public ActionResult Adres()
+        {
+            List<Adres> alist = new List<Adres>();
+            Adres a = new Adres();
+            a.id = 34;
+            a.sehirismi = "İstanbul";
+            
+
+            Adres a1 = new Adres();
+            a1.id = 35;
+            a1.sehirismi = "İzmir";
+            return View(alist);
+        }
     }
 }
